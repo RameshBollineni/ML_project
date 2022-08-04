@@ -1,0 +1,8 @@
+[2022-08-05 00:52:53,600] werkzeug -WARNING - * Debugger is active!
+[2022-08-05 00:52:53,604] werkzeug -INFO - * Debugger PIN: 379-449-669
+[2022-08-05 00:53:02,393] root -INFO - Error occured in statement: [C:\Users\bolli\OneDrive\Documents\Mechine_learning_project\ML_project\app.py] at line number: [14] error message :[We are testing custom expetcion] 
+[2022-08-05 00:53:02,393] root -INFO -We are testing logging module
+[2022-08-05 00:53:02,394] werkzeug -INFO -127.0.0.1 - - [05/Aug/2022 00:53:02] "GET / HTTP/1.1" 200 -
+[2022-08-05 00:53:22,556] root -INFO - Error occured in statement: [C:\Users\bolli\OneDrive\Documents\Mechine_learning_project\ML_project\app.py] at line number: [14] error message :[We are testing custom expetcion] 
+[2022-08-05 00:53:22,558] root -INFO -We are testing logging module
+[2022-08-05 00:53:22,558] werkzeug -INFO -127.0.0.1 - - [05/Aug/2022 00:53:22] "GET / HTTP/1.1" 200 -
