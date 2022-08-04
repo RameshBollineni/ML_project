@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+creadt_card.egg-info/PKG-INFO
+creadt_card.egg-info/SOURCES.txt
+creadt_card.egg-info/dependency_links.txt
+creadt_card.egg-info/top_level.txt
+creadtcard/__init__.py

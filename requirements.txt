@@ -1,7 +1,8 @@
 Flask
 gunicorn
-sklearn 
+sklearn
 pandas
 numpy
+-e .
 
 

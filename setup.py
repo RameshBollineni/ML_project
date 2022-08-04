@@ -2,8 +2,8 @@ from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME="creadt_card_default_orediction"
-VERSION="0.0.1"
+PROJECT_NAME="creadt-card"
+VERSION="0.0.4"
 AUTHOR="Ramesh Bollineni"
 DESRCIPTION="This is a first FSDS Nov batch Machine Learning Project"
 PACKAGES=["creadtcard"]
@@ -26,7 +26,6 @@ name=PROJECT_NAME,
 version=VERSION,
 author=AUTHOR,
 description=DESRCIPTION,
-packages=find_packages(),
-install_requires=get_requirements_list()
+packages=find_packages()
 
 )
