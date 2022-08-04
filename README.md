@@ -10,5 +10,11 @@ to remove file from git--"git restore filename "
 
 "git ststus"-- it will to be added files to git chnages we made 
 
+git commit -m "massage"--- to send changes to git 
+
+git log -- we can see the vserion 
+
+
+
 
 
